@@ -1,5 +1,7 @@
 # Produtividade com Microsoft Copilot Studio
 
+![Image](https://github.com/user-attachments/assets/24445b50-be6e-42cc-87cb-4dcb937d3827)
+
 ## Criando seu primeiro Copiloto no Microsoft Copilot Studio
 
 Este desafio faz parte da atividade do **Bootcamp - Suzano - Python Developer** que estou realizando na plataforma da [DIO (Digital Innovation One)](https://www.dio.me/), em parceria com a empresa [SUZANO](https://www.suzano.com.br).
